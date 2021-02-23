@@ -1,4 +1,4 @@
-# ES_Theme_Pixel-Metadata
+# ES_Theme_Pixel-Metadata - 2021
 Pixel theme with changes made to include metadata.
 Do not modify this theme or use graphics in other projects.
 
